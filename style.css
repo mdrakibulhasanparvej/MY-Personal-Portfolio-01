@@ -457,9 +457,9 @@ body {
   }
 
   .navbar {
-    position: static;
     padding: 1rem;
     width: 100%;
+    left: 5px;
   }
 
   .content {
